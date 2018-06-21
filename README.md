@@ -1,5 +1,7 @@
 # fastText Web Demo
-Web demo of Facebook's fastText language detection
+Web demo of Facebook's fastText language detection.
+
+Try it out: [yrsamrith.github.io/fasttext-demo](https://yrsamrith.github.io/fasttext-demo/)
 
 # Description
 - Client contains the HTML/Javascript files for frontend.
