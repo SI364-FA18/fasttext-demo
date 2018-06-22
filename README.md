@@ -1,5 +1,5 @@
 # fastText Web Demo
-Web demo of Facebook's fastText language detection.
+Web demo of Facebook's [fastText](https://fasttext.cc/) language detection.
 
 TRY IT: Since I use Heroku free dyno, the first time you get the result might take several seconds because the server needed to wake up from sleep. Now, check it out: [yrsamrith.github.io/fasttext-demo](https://yrsamrith.github.io/fasttext-demo/)
 
